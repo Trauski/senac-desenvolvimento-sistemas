@@ -16,3 +16,18 @@ desktop.ini
 .pptx
 .jpg
 .mwb.bak
+
+# Material do SENAC (não é de minha autoria)
+Contato SENAC.jpg
+*.mp4
+**/nbproject/private/
+**/Conteúdo/
+
+# UC3: material do SENAC
+UC3*/Conteúdo/
+UC3*/guia_estudante.pdf
+
+# UC4: material do SENAC
+UC4*/[0-9][0-9]*.pdf                   
+UC4*/Atividades/Atividade 1/Atividade 1_modelo_relatorio.docx
+UC4*/Gravação de Tela SQL.mp4
