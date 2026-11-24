@@ -1,0 +1,18 @@
+# NetBeans / Java
+build/
+dist/
+nbproject/private/
+target/
+*.class
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Materiais de aula / backups
+.pptx
+.jpg
+.mwb.bak
